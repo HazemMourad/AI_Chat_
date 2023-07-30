@@ -7,3 +7,5 @@ Windows form contains the following controls:
 3- Textbox: shows the generated answer
 
 the user ask in the questions field , then click the button , in the backgroud a browser opened on one of AI chatting apllications and answers the questions , and retuen the result again to the results box
+
+Codes and files  are in the master  branch 
