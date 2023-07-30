@@ -1,0 +1,26 @@
+E:\Bissan ltd 2014\21 Million Project\3-InMillion App\Traffic\Project\Multi Apps\Social\Tasks Upwork\AI_Chat _C_Framework\bin\Debug\AI_Chat _C_Framework.exe.config
+E:\Bissan ltd 2014\21 Million Project\3-InMillion App\Traffic\Project\Multi Apps\Social\Tasks Upwork\AI_Chat _C_Framework\bin\Debug\AI_Chat _C_Framework.exe
+E:\Bissan ltd 2014\21 Million Project\3-InMillion App\Traffic\Project\Multi Apps\Social\Tasks Upwork\AI_Chat _C_Framework\bin\Debug\AI_Chat _C_Framework.pdb
+E:\Bissan ltd 2014\21 Million Project\3-InMillion App\Traffic\Project\Multi Apps\Social\Tasks Upwork\AI_Chat _C_Framework\obj\Debug\AI_Chat _C_Framework.csproj.AssemblyReference.cache
+E:\Bissan ltd 2014\21 Million Project\3-InMillion App\Traffic\Project\Multi Apps\Social\Tasks Upwork\AI_Chat _C_Framework\obj\Debug\AI_Chat__C_Framework.Form1.resources
+E:\Bissan ltd 2014\21 Million Project\3-InMillion App\Traffic\Project\Multi Apps\Social\Tasks Upwork\AI_Chat _C_Framework\obj\Debug\AI_Chat__C_Framework.Properties.Resources.resources
+E:\Bissan ltd 2014\21 Million Project\3-InMillion App\Traffic\Project\Multi Apps\Social\Tasks Upwork\AI_Chat _C_Framework\obj\Debug\AI_Chat _C_Framework.csproj.GenerateResource.cache
+E:\Bissan ltd 2014\21 Million Project\3-InMillion App\Traffic\Project\Multi Apps\Social\Tasks Upwork\AI_Chat _C_Framework\obj\Debug\AI_Chat _C_Framework.csproj.CoreCompileInputs.cache
+E:\Bissan ltd 2014\21 Million Project\3-InMillion App\Traffic\Project\Multi Apps\Social\Tasks Upwork\AI_Chat _C_Framework\obj\Debug\AI_Chat _C_Framework.exe
+E:\Bissan ltd 2014\21 Million Project\3-InMillion App\Traffic\Project\Multi Apps\Social\Tasks Upwork\AI_Chat _C_Framework\obj\Debug\AI_Chat _C_Framework.pdb
+D:\AI\Project\bin\Debug\selenium-manager\linux\selenium-manager
+D:\AI\Project\bin\Debug\selenium-manager\macos\selenium-manager
+D:\AI\Project\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\AI\Project\bin\Debug\AI_Chat _C_Framework.exe.config
+D:\AI\Project\bin\Debug\AI_Chat _C_Framework.exe
+D:\AI\Project\bin\Debug\AI_Chat _C_Framework.pdb
+D:\AI\Project\bin\Debug\WebDriver.dll
+D:\AI\Project\bin\Debug\WebDriver.Support.dll
+D:\AI\Project\obj\Debug\AI_Chat _C_Framework.csproj.AssemblyReference.cache
+D:\AI\Project\obj\Debug\AI_Chat__C_Framework.Form1.resources
+D:\AI\Project\obj\Debug\AI_Chat__C_Framework.Properties.Resources.resources
+D:\AI\Project\obj\Debug\AI_Chat _C_Framework.csproj.GenerateResource.cache
+D:\AI\Project\obj\Debug\AI_Chat _C_Framework.csproj.CoreCompileInputs.cache
+D:\AI\Project\obj\Debug\AI_Chat _C_Framework.csproj.CopyComplete
+D:\AI\Project\obj\Debug\AI_Chat _C_Framework.exe
+D:\AI\Project\obj\Debug\AI_Chat _C_Framework.pdb
